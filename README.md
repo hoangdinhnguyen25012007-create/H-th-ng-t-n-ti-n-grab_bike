@@ -16,15 +16,8 @@ tích hợp bản đồ thực tế và hệ thống điểm thưởng.
 - osmnx · networkx · folium · geopy
 - tkinter (giao diện desktop)
 
-## ⚙️ Cài đặt
-```bash
-pip install scikit-fuzzy osmnx networkx folium geopy
-python Bai_Tap_Nhom.py
-```
 
-## 👥 Nhóm thực hiện
-- Thành viên 1 — MSSV
-- Thành viên 2 — MSSV
 
 ## 📚 Môn học
-Trí tuệ nhân tạo — [Tên trường]
+Trí tuệ nhân tạo 
+Giáo Viên Hướng Dẫn : Nguyen Truong Thinh
